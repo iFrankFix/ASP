@@ -9,6 +9,7 @@ namespace EmotionPlatzi.web.Areas.HelpPage
         {
             get
             {
+                //aqui modifique
                 return "HelpPage";
             }
         }

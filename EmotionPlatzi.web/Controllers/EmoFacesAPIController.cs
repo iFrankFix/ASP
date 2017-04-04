@@ -16,7 +16,7 @@ namespace EmotionPlatzi.web.Controllers
     {
         private EmotionPlatziwebContext db = new EmotionPlatziwebContext();
 
-        // GET: api/EmoFacesAPI
+        // GET: api/EmoFacesAPI wey ffdfd
         public IQueryable<EmoFace> GetEmoFaces()
         {
             return db.EmoFaces;
